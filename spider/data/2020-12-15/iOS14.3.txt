@@ -1,0 +1,1 @@
+# iOS14.3 # 苹果 推送 了 iOS14.3 正式版 的 更新 。 划 重点 ： 修复 无线 充电 Bug ， 支持 AirPodsMax ， 拍摄 AppleProRAW 照片 等 ， 建议 更新 。 - 设备 可能 无法 无线 充电 - MagSafe 双项 充电器 可能 不会 以 最大 功率 为 iPhone 无线 充电 - AirPodsMax 的 支持 - 新增 了 在 iPhone12Pro 上 拍摄 AppleProRAW 照片 终于 修复 部分 无线 充 ， 无法 为 iPhone12 系列 充电 的 Bug 了 ？ 已经 升级 的 小伙伴 可以 试一试 。
